@@ -5,7 +5,8 @@
     - In this repository, you will find detailed instructions and resources to guide you through the installation and monitoring process. Whether you're new to Kubernetes cluster management, this project provides valuable insights to help you monitor your Minikube cluster effectively.
 
 - Minikube Installation : 
-    Please find github reposiotory for minikube installation from scratch.
+    - Please find github reposiotory for minikube installation from scratch.
+    - [\[Installation Repo\]](https://github.com/pra9jambare/minikube_prome_grafana/tree/main/Minikube_Installation)
 
 - Key features include:
     - 	
@@ -23,12 +24,17 @@
         -   Learn how to leverage Minikube and Argocd to streamline your development and deployment processes.
     
 
-
 - How to Get Started:
     - 	Visit the Repository: 
     - 	Clone the Repository: 
     - 	Follow the Guides: 
     - 	Experiment and Learn: 
+
+- Flow of the Project:
+    - Installation of Minikube
+    - Installation of ArgoCD on K8s Cluster
+    - Intergarte the ArgoCD with GitHub Repository with Applying the Deployment Yaml
+    - Do the changes in GitHub Repository for changes in K8s Cluster
 
 
 - Feel free to explore the project and reach out if you have any questions or feedback. 
